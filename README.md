@@ -6,3 +6,7 @@
 ### Universidad de San Carlos de Guatemala
 #### Estudiante: Geovanny Sebastián Herrera Claudio
 #### Carné: 202110588
+
+## Manual de Usuario [Click](https://github.com/SebastianHerrera/-LFP-Proyecto1_202110588/blob/main/manuals/ManualDeUsuario.pdf)
+  
+## Manual de Usuario [Click](https://github.com/SebastianHerrera/-LFP-Proyecto1_202110588/blob/main/manuals/ManualTecnico.pdf)
