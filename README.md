@@ -8,5 +8,7 @@
 #### Carné: 202110588
 
 ## Manual de Usuario [Click](https://github.com/SebastianHerrera/-LFP-Proyecto1_202110588/blob/main/manuals/ManualDeUsuario.pdf)
-#
+####
+####
+####
 ## Manual de Técnico [Click](https://github.com/SebastianHerrera/-LFP-Proyecto1_202110588/blob/main/manuals/ManualTecnico.pdf)
