@@ -1,0 +1,57 @@
+{
+   ?
+ {
+ "Operacion":"Suma"
+ "Valor1":4.5
+ "Valor2":[
+    "Operacion":"Mod"
+    "Valor1":3
+    "Valor2":4
+ ]
+ },
+**
+{
+"Operacion":"Resta"
+ "Valor1":[
+ "Operacion":"Seno"
+ "Valor1":90
+ ]
+ "Valor2":5.32
+ }
+
+{
+"Operacion":"Multiplicacion"
+ "Valor1":2
+ "Valor2":2
+ }
+
+{
+"Operacion":"Division"
+ "Valor1":2
+ "Valor2":2
+ }
+ 
+{
+"Operacion":"Suma"
+ "Valor1":4.5
+ "Valor2": [
+ "Operacion":"Potencia"
+ "Valor1":10
+ "Valor2":3
+ ]}
+
+ {
+"Operacion":"Resta"
+ "Valor1":4.5
+ "Valor2":2
+ }
+
+ 
+
+ "Texto":"Realizacion de Operaciones"
+ "Color-Fondo-Nodo":"Amarillo"
+ "Color-Fuente-Nodo":"Rojo"
+ "Forma-Nodo":"Circulo"
+}
+
+

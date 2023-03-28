@@ -1,0 +1,7 @@
+// Example
+digraph {
+	a1 [label="SUMA\n" color=yellow fontcolor=red shape=circle style=filled]
+	a2 [label="SUMA\n" color=yellow fontcolor=red shape=circle style=filled]
+	a2 [label="OH YES" color=red shape=box style=filled]
+	a2 -> a2
+}
